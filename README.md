@@ -41,10 +41,7 @@ Computer networking · Linux · Python · Git · Cyber security fundamentals
 |---|---|---|
 | [AWS Cloud Practitioner CLF-C02 course](https://www.udemy.com/certificate/UC-7411b92f-67b3-411b-8fca-2a8654aba6c2/) | Udemy | Feb 2026 |
 | Vulnerability Assessment and Penetration Testing, industry-integrated program | GM University | Jul 2025 |
-| Cybersecurity Essentials: Ethical Hacking (Stage 2) | GM University | Jul 2025 |
-| Fundamentals of Cybersecurity (Stage 1) | GM University | Jan 2025 |
 | [Networking Fundamentals on Google Cloud](https://www.cloudskillsboost.google/public_profiles/b478eca2-c6cd-421d-a5d9-c17e0866634b/badges/11717947) | Google Cloud Skills Boost | Sep 2024 |
-| Embracing Data Structures and Algorithms for Project Development | GM University | Jul 2024 |
 | [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/records/ELZ3V6QZ8D3S) | Google | Mar 2024 |
 
 ## Contact
