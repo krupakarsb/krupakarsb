@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://krupakarsb.github.io"><b>Website and live demo</b></a> ·
+  <a href="https://krupakarsb.github.io/assets/Krupakar-S-Bilichod-Resume.pdf"><b>Resume</b></a> ·
   <a href="https://www.linkedin.com/in/krupakarsb"><b>LinkedIn</b></a> ·
   <a href="mailto:krupakarsb@gmail.com"><b>Email</b></a>
 </p>
