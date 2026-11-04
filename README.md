@@ -12,19 +12,11 @@
 
 I'm a final-year B.Tech Cyber Security student at GM University, Davangere, graduating in 2027. I build tools that make security work simpler and easier to verify.
 
-**Open to:** internships and graduate roles as a Security Analyst (L1) or Cyber Security Consultant.
+**Open to:** internships and graduate roles as a Security Analyst (L1) or Cyber Security Consultant, available from 2027.
 
-## My projects
+## Featured project
 
-**zlang** is my first own project: a language and console that puts common security tools behind one short, readable syntax. Every network command passes a scope check first, and every action joins a tamper-evident log.
-
-```text
-zlang › scan 127.0.0.1 ports common | filter open | save results.csv
-```
-
-The zlang source is private for now, but you can [try a small demo in your browser](https://krupakarsb.github.io/#try).
-
-**Hasfragis** is a team project I'm part of: a digital forensics toolkit that makes evidence tamper-evident and checkable. Its repository is private.
+**zlang** is my first own project: a language and console for cyber security work. [Try the demo in your browser](https://krupakarsb.github.io/#try).
 
 ## Skills
 
@@ -43,7 +35,3 @@ Computer networking · Linux · Python · Git · Cyber security fundamentals
 | Vulnerability Assessment and Penetration Testing, industry-integrated program | GM University | Jul 2025 |
 | [Networking Fundamentals on Google Cloud](https://www.cloudskillsboost.google/public_profiles/b478eca2-c6cd-421d-a5d9-c17e0866634b/badges/11717947) | Google Cloud Skills Boost | Sep 2024 |
 | [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/records/ELZ3V6QZ8D3S) | Google | Mar 2024 |
-
-## Contact
-
-[krupakarsb@gmail.com](mailto:krupakarsb@gmail.com) · [LinkedIn](https://www.linkedin.com/in/krupakarsb) · [krupakarsb.github.io](https://krupakarsb.github.io)
