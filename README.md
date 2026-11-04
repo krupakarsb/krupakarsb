@@ -10,7 +10,9 @@
 
 ## Hi, I'm Krupakar, or KSB
 
-I'm a B.Tech Cyber Security student, building tools that make security work simpler and easier to verify.
+I'm a final-year B.Tech Cyber Security student at GM University, Davangere, graduating in 2027. I build tools that make security work simpler and easier to verify.
+
+**Open to:** internships and graduate roles as a Security Analyst (L1) or Cyber Security Consultant.
 
 ## My projects
 
@@ -23,6 +25,27 @@ zlang › scan 127.0.0.1 ports common | filter open | save results.csv
 The zlang source is private for now, but you can [try a small demo in your browser](https://krupakarsb.github.io/#try).
 
 **Hasfragis** is a team project I'm part of: a digital forensics toolkit that makes evidence tamper-evident and checkable. Its repository is private.
+
+## Skills
+
+Computer networking · Linux · Python · Git · Cyber security fundamentals
+
+## CTFs and labs
+
+- **Ascent: Override.exe CTF**, Scaler School of Technology, May 2026
+- **[Advent of Cyber 2025](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OU2Q2KIAEF.pdf)**, TryHackMe, December 2025
+
+## Courses and certificates
+
+| Certificate | Issued by | Date |
+|---|---|---|
+| [AWS Cloud Practitioner CLF-C02 course](https://www.udemy.com/certificate/UC-7411b92f-67b3-411b-8fca-2a8654aba6c2/) | Udemy | Feb 2026 |
+| Vulnerability Assessment and Penetration Testing, industry-integrated program | GM University | Jul 2025 |
+| Cybersecurity Essentials: Ethical Hacking (Stage 2) | GM University | Jul 2025 |
+| Fundamentals of Cybersecurity (Stage 1) | GM University | Jan 2025 |
+| [Networking Fundamentals on Google Cloud](https://www.cloudskillsboost.google/public_profiles/b478eca2-c6cd-421d-a5d9-c17e0866634b/badges/11717947) | Google Cloud Skills Boost | Sep 2024 |
+| Embracing Data Structures and Algorithms for Project Development | GM University | Jul 2024 |
+| [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/records/ELZ3V6QZ8D3S) | Google | Mar 2024 |
 
 ## Contact
 
