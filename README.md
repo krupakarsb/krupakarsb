@@ -1,5 +1,5 @@
 <a href="https://krupakarsb.github.io">
-  <img src="assets/banner.svg" alt="Krupakar S Bilichod. zlang, my first own project, and Hasfragis, a team project. Visit krupakarsb.github.io" width="100%">
+  <img src="assets/banner.svg" alt="Krupakar S Bilichod, with a tree of his work: zlang, his first own project, and Hasfragis, a team project. Visit krupakarsb.github.io" width="100%">
 </a>
 
 <p align="center">
