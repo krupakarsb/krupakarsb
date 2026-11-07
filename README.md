@@ -19,6 +19,8 @@ I'm a final-year B.Tech Cyber Security student at GM University, Davangere, grad
 
 **zlang** is my first own project: a language and console for cyber security work. [Try the demo in your browser](https://krupakarsb.github.io/#try).
 
+**Zini** (in development) is a planned AI assistant for zlang. It will only suggest, and you stay in control of what runs.
+
 ## Skills
 
 Computer networking · Linux · Python · Git · Cyber security fundamentals
