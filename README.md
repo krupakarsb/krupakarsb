@@ -16,20 +16,17 @@ I'm a final-year B.Tech Cyber Security student at GM University, Davangere, grad
 
 **Open to:** internships and graduate roles as a Security Analyst (L1) or Cyber Security Consultant, available from 2027.
 
-## Featured project
+## Featured projects
 
 **Zlang** is my first own project: a language and console for cyber security work. [Try the demo in your browser](https://krupakarsb.github.io/#try).
 
 **Zini** (in development) is a planned AI assistant for Zlang. It will only suggest, and you stay in control of what runs.
 
+**[Hasfragis](https://github.com/hasfragis/hasfragis)** (team project) is a digital forensics toolkit that makes evidence tamper-evident and checkable.
+
 ## BitPillars
 
-**[BitPillars](https://krupakarsb.github.io/bitpillars/)** is my game studio, a side project where I make tiny pixel games that anyone can play for free in the browser, on a phone or a desktop. No installs, no ads, no accounts.
-
-- **[LOOPFALL](https://krupakarsb.github.io/bitpillars/loopfall/)**, a gravity puzzle in a world that repeats forever. You swipe to tilt the universe, and everything slides until something stops it. 28 levels, an endless mode with generated rooms, and a daily puzzle. A built-in solver checks every level and finds the fewest moves.
-- **[OUROBOROS](https://krupakarsb.github.io/bitpillars/ouroboros/)**, a fast, chill snake in a world without edges, with nine short levels, an endless mode and an ending you have to figure out. A bot and a fuzzer test every level.
-
-Source: [krupakarsb/bitpillars](https://github.com/krupakarsb/bitpillars).
+**[BitPillars](https://krupakarsb.github.io/bitpillars/)** is my little game lab, where I make tiny pixel games that are fast, chill and satisfying. Some are inspired by popular indie titles and some are my own ideas. They're all free to play in the browser. Enjoy!
 
 ## Skills
 
