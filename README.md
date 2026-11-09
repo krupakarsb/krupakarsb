@@ -1,6 +1,6 @@
-<a href="https://krupakarsb.github.io">
-  <img src="assets/banner.svg" alt="Krupakar S Bilichod, with a tree of his work: Zlang, his first own project, Hasfragis, a team project, and BitPillars, his game studio. Visit krupakarsb.github.io" width="100%">
-</a>
+<p>
+<a href="https://krupakarsb.github.io"><img src="assets/banner-1-tree.svg" alt="Krupakar S Bilichod: cyber security student building tools that make security work simpler and easier to verify. Tree of work: KSB, Zlang, Hasfragis, next." width="100%" align="top"></a><a href="https://krupakarsb.github.io/bitpillars/"><img src="assets/banner-2-bitpillars-branch.svg" alt="BitPillars, game studio (opens the BitPillars games page)" width="100%" align="top"></a><a href="https://krupakarsb.github.io"><img src="assets/banner-3-zlang.svg" alt="Zlang, my first own project: a language and console that puts common security tools behind one readable syntax (opens the Zlang website)" width="100%" align="top"></a><a href="https://github.com/hasfragis/hasfragis"><img src="assets/banner-4-hasfragis.svg" alt="Hasfragis, team project: a digital forensics toolkit that makes evidence tamper-evident and checkable (opens the Hasfragis repository)" width="100%" align="top"></a><a href="https://krupakarsb.github.io/bitpillars/"><img src="assets/banner-5-bitpillars.svg" alt="BitPillars, my game studio: tiny pixel games, free to play in the browser (opens the BitPillars games page)" width="100%" align="top"></a>
+</p>
 
 <p align="center">
   <a href="https://krupakarsb.github.io"><b>Website and live demo</b></a> ·
@@ -26,7 +26,10 @@ I'm a final-year B.Tech Cyber Security student at GM University, Davangere, grad
 
 **[BitPillars](https://krupakarsb.github.io/bitpillars/)** is my game studio, a side project where I make tiny pixel games that anyone can play for free in the browser, on a phone or a desktop. No installs, no ads, no accounts.
 
-The first game is **[LOOPFALL](https://krupakarsb.github.io/bitpillars/loopfall/)**, a gravity puzzle in a world that repeats forever. You swipe to tilt the universe, and everything slides until something stops it. It has 28 levels, an endless mode with generated rooms, and a daily puzzle. A built-in solver checks every level and finds the fewest moves. Source: [krupakarsb/bitpillars](https://github.com/krupakarsb/bitpillars).
+- **[LOOPFALL](https://krupakarsb.github.io/bitpillars/loopfall/)**, a gravity puzzle in a world that repeats forever. You swipe to tilt the universe, and everything slides until something stops it. 28 levels, an endless mode with generated rooms, and a daily puzzle. A built-in solver checks every level and finds the fewest moves.
+- **[OUROBOROS](https://krupakarsb.github.io/bitpillars/ouroboros/)**, a fast, chill snake in a world without edges, with nine short levels, an endless mode and an ending you have to figure out. A bot and a fuzzer test every level.
+
+Source: [krupakarsb/bitpillars](https://github.com/krupakarsb/bitpillars).
 
 ## Skills
 
