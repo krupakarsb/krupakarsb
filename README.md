@@ -1,9 +1,10 @@
 <a href="https://krupakarsb.github.io">
-  <img src="assets/banner.svg" alt="Krupakar S Bilichod, with a tree of his work: zlang, his first own project, and Hasfragis, a team project. Visit krupakarsb.github.io" width="100%">
+  <img src="assets/banner.svg" alt="Krupakar S Bilichod, with a tree of his work: Zlang, his first own project, Hasfragis, a team project, and BitPillars, his game studio. Visit krupakarsb.github.io" width="100%">
 </a>
 
 <p align="center">
   <a href="https://krupakarsb.github.io"><b>Website and live demo</b></a> ·
+  <a href="https://krupakarsb.github.io/bitpillars/"><b>Play BitPillars games</b></a> ·
   <a href="https://krupakarsb.github.io/assets/Krupakar-S-Bilichod-Resume.pdf"><b>Resume</b></a> ·
   <a href="https://www.linkedin.com/in/krupakarsb"><b>LinkedIn</b></a> ·
   <a href="mailto:krupakarsb@gmail.com"><b>Email</b></a>
@@ -17,9 +18,15 @@ I'm a final-year B.Tech Cyber Security student at GM University, Davangere, grad
 
 ## Featured project
 
-**zlang** is my first own project: a language and console for cyber security work. [Try the demo in your browser](https://krupakarsb.github.io/#try).
+**Zlang** is my first own project: a language and console for cyber security work. [Try the demo in your browser](https://krupakarsb.github.io/#try).
 
-**Zini** (in development) is a planned AI assistant for zlang. It will only suggest, and you stay in control of what runs.
+**Zini** (in development) is a planned AI assistant for Zlang. It will only suggest, and you stay in control of what runs.
+
+## BitPillars
+
+**[BitPillars](https://krupakarsb.github.io/bitpillars/)** is my game studio, a side project where I make tiny pixel games that anyone can play for free in the browser, on a phone or a desktop. No installs, no ads, no accounts.
+
+The first game is **[LOOPFALL](https://krupakarsb.github.io/bitpillars/loopfall/)**, a gravity puzzle in a world that repeats forever. You swipe to tilt the universe, and everything slides until something stops it. It has 28 levels, an endless mode with generated rooms, and a daily puzzle. A built-in solver checks every level and finds the fewest moves. Source: [krupakarsb/bitpillars](https://github.com/krupakarsb/bitpillars).
 
 ## Skills
 
