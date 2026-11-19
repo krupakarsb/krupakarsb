@@ -14,11 +14,17 @@
 
 I'm a final-year B.Tech Cyber Security student at GM University, Davangere, graduating in 2027. I build tools that make security work simpler and easier to verify.
 
-**Open to:** internships and graduate roles as a Security Analyst (L1) or Cyber Security Consultant, available from 2027.
+**Open to:** internships and graduate roles in GRC (governance, risk and compliance), cyber risk advisory and security consulting, available from 2027.
+
+## Experience
+
+**Cybersecurity Intern**, UNLOX (September batch), certificate of internship completion
+
+- Capstone project: designed and built a centralized log monitoring and threat detection system with the ELK Stack, collecting logs from Windows and Kali Linux endpoints into a central ELK server.
 
 ## Featured projects
 
-**Zlang** is my first own project: a language and console for cyber security work. [Try the demo in your browser](https://krupakarsb.github.io/#try).
+**Zlang** is my first own project: a language and console for cyber security work. It installs on Windows as a tray app, has 59 commands, runs background jobs, and can lock the whole install down while saving a signed evidence file that it can verify later. [Try the demo in your browser](https://krupakarsb.github.io/#try).
 
 **Zini** (in development) is a planned AI assistant for Zlang. It will only suggest, and you stay in control of what runs.
 
@@ -30,7 +36,7 @@ I'm a final-year B.Tech Cyber Security student at GM University, Davangere, grad
 
 ## Skills
 
-Computer networking · Linux · Python · Git · Cyber security fundamentals
+Computer networking · Linux · Python · Git · Log monitoring with the ELK Stack · Cyber security fundamentals
 
 ## CTFs and labs
 
